@@ -22,3 +22,5 @@ To see the problem, please take the following steps:
 6. Go back to a compact width and the newly added view controllers continue to appear correctly.
 
 Perform these same set of steps using iOS 12 (or 11) and at step 4 you see the newly set view controllers as expected. It's only under iOS 13 that step 4 shows the wrong results.
+
+See this bug on OpenRadar http://www.openradar.me/radar?id=4969975819272192
